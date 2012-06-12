@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/reset"
+        android:icon="@drawable/ic_reset"
+        android:title="Reset Lists"/>
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/ic_help"
+        android:title="Help"/>
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_about"
+        android:title="About"/>
+
+</menu>
