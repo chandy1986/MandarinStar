@@ -16,7 +16,7 @@ public class SplashScreen extends Activity {
 				try {
 					sleep(1500);
 					Intent anIntent = new Intent(
-							"com.learningco.mandarinstar.MAIN");
+							"com.learningco.mandarinstar.SPLASHSCREEN");
 					startActivity(anIntent);
 				} catch (InterruptedException e) {
 					// TODO Auto-generated catch block
